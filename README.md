@@ -26,4 +26,4 @@ This project involves performing exploratory data analysis (EDA), building a loo
 3. ```bash
    pip install -r requirements.txt
 4. Run the python scripts as needed
-5. Results Key insights and visualizations can be found in the reports/ folder.
+5. Results Key insights and visualizations can be found in the reports folder.
