@@ -23,6 +23,7 @@ This project involves performing exploratory data analysis (EDA), building a loo
    ```bash
    git clone <https://github.com/dhruv0kashyap/zeotap_Assignment.git>
 2. Install necessary dependencies
+3. ```bash
    pip install -r requirements.txt
-3. Run the python scripts as needed
-4. Results Key insights and visualizations can be found in the reports/ folder.
+4. Run the python scripts as needed
+5. Results Key insights and visualizations can be found in the reports/ folder.
