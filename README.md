@@ -8,7 +8,6 @@ This project involves performing exploratory data analysis (EDA), building a loo
 
 ## File Descriptions
 - **data/**: Contains the input dataset files.
-- **notebooks/**: Jupyter Notebooks for EDA, Lookalike Model, and Clustering.
 - **reports/**: PDF reports for EDA and clustering results.
 - **Lookalike.csv**: Output file with lookalike recommendations.
 - **README.md**: Project overview and instructions.
