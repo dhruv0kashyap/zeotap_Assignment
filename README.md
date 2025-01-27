@@ -21,7 +21,7 @@ This project involves performing exploratory data analysis (EDA), building a loo
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/dhruv0kashyap/zeotap_Assignment.git>
 2. Install necessary dependencies
    pip install -r requirements.txt
 3. Run the python scripts as needed
